@@ -1,7 +1,8 @@
 
 
 TAXI TRIP ANALYSIS
-DASHBOARD LINK
+
+DASHBOARD LINK:https://app.powerbi.com/groups/me/reports/9d0dfb51-fbbf-4e4c-bf9e-43d0841fb59b/ReportSection?experience=power-bi&clientSideAuth=0
 
 Overview
 
